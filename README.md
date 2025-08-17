@@ -1,4 +1,4 @@
-# Blinkit Data Analysis Project 
+# Blinkit Data Analysis Project   
 📌 Project Overview
 
 This project is an end-to-end data analysis of Blinkit (formerly Grofers) dataset using SQL, Excel, Python, and Power BI.
