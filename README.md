@@ -3,14 +3,14 @@
 
 This project is an end-to-end data analysis of Blinkit (formerly Grofers) dataset using SQL, Excel, Python, and Power BI.
 
-The goal is to clean, analyze, and visualize the data to derive business insights such as:
--Identify top-performing products and categories.
--Analyze sales trends across time periods.
--Understand customer purchase behavior and preferences.
--Evaluate the impact of discounts and promotions on sales.
--Track regional demand and inventory challenges.
--Build interactive dashboards for decision-making.
--Provide actionable recommendations for business growth.
+The goal is to clean, analyze, and visualize the data to derive business insights such as:  
+-Identify top-performing products and categories.  
+-Analyze sales trends across time periods.  
+-Understand customer purchase behavior and preferences.  
+-Evaluate the impact of discounts and promotions on sales.  
+-Track regional demand and inventory challenges.  
+-Build interactive dashboards for decision-making.  
+-Provide actionable recommendations for business growth.  
 
 
 # Tools & Technologies Used
